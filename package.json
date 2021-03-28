@@ -1,0 +1,52 @@
+{
+  "name": "ArikBartzadok",
+  "description": "A personal npm card for ArikBartzadok (@ArikBartzadok)",
+  "main": "./src/index.js",
+  "files": [
+    "bin/"
+  ],
+  "scripts": {
+    "start": "node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArikBartzadok/ArikBartzadok.git"
+  },
+  "keywords": [
+    "npm",
+    "npx",
+    "node",
+    "javascript",
+    "front-end",
+    "npx card",
+    "business card"
+  ],
+  "author": "Diogo Ferreira <arikbartzadok@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArikBartzadok/ArikBartzadok/issues"
+  },
+  "homepage": "https://github.com/ArikBartzadok/ArikBartzadok#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "@semantic-release/exec": "^5.0.0",
+    "@semantic-release/github": "^7.0.7",
+    "@semantic-release/npm": "^7.0.5",
+    "core-js": "^3.6.5",
+    "rimraf": "^3.0.2",
+    "semantic-release": "^17.1.1"
+  },
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "inquirer": "^7.3.2",
+    "open": "^7.0.4"
+  },
+  "engines": {
+    "node": ">=10",
+    "npm": ">=6.0.0"
+  }
+}
