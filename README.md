@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 <div align="center" style="margin-bottom:30px;">
 
-<img src="./screenshot.png" alt="Pixel art" style="border-radius:15px;"/>
+<img src="./screenshot.png?raw=true" alt="Script, yeees" style="border-radius:15px;"/>
 
 </div>
 
-<div style="display: flex; justify-content: space-around;">
+<div align="center" style="margin-top:30px;">
 
 <div style="padding: 1rem">
 
