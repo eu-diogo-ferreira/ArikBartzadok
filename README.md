@@ -8,6 +8,7 @@
 
 </div>
 
+<!--
 <div align="center" style="margin-top:30px;">
 
 <div style="padding: 1rem">
@@ -17,3 +18,4 @@
 </div>
 
 </div>
+-->
