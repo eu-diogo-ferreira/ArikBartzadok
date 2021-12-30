@@ -8,14 +8,22 @@
 
 </div>
 
-<!--
-<div align="center" style="margin-top:30px;">
+<!-- <div align="center" style="">
+  
+<div align="left" style="margin-top:30px;">
 
 <div style="padding: 1rem">
 
 ![ArikBartzadok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArikBartzadok&show_icons=true&theme=radical&border_radius=15)
 
 </div>
-
+  
 </div>
--->
+
+<div align="right" style="margin-top:30px;">
+
+  <a href="https://app.daily.dev/ArikBartzadok"><img src="https://api.daily.dev/devcards/5c223ac30bb840aea58bf0a220625fe1.png?r=q24" width="400" alt="Arik Bartzadok's Dev Card"/></a>
+ 
+</div>
+  
+</div> -->
